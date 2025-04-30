@@ -1,2 +1,2 @@
 # Image-Slider
-Image sliding with info
+Image sliding with random info to test animations
